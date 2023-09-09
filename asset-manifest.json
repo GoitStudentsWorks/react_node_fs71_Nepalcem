@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs71_Nepalcem/static/css/main.a2775d8e.css",
-    "main.js": "/react_node_fs71_Nepalcem/static/js/main.74fd97ae.js",
+    "main.js": "/react_node_fs71_Nepalcem/static/js/main.12c40bf9.js",
     "static/css/87.ad135b5b.chunk.css": "/react_node_fs71_Nepalcem/static/css/87.ad135b5b.chunk.css",
     "static/js/87.ad3ea8cc.chunk.js": "/react_node_fs71_Nepalcem/static/js/87.ad3ea8cc.chunk.js",
     "static/js/127.0be3eed2.chunk.js": "/react_node_fs71_Nepalcem/static/js/127.0be3eed2.chunk.js",
@@ -78,7 +78,7 @@
     "static/media/x-close.svg": "/react_node_fs71_Nepalcem/static/media/x-close.1e3cd6c3f55a61addc3cac5e52c0229d.svg",
     "static/media/plus2.svg": "/react_node_fs71_Nepalcem/static/media/plus2.772c43089dc783fae2cd40b8e18e45b7.svg",
     "main.a2775d8e.css.map": "/react_node_fs71_Nepalcem/static/css/main.a2775d8e.css.map",
-    "main.74fd97ae.js.map": "/react_node_fs71_Nepalcem/static/js/main.74fd97ae.js.map",
+    "main.12c40bf9.js.map": "/react_node_fs71_Nepalcem/static/js/main.12c40bf9.js.map",
     "87.ad135b5b.chunk.css.map": "/react_node_fs71_Nepalcem/static/css/87.ad135b5b.chunk.css.map",
     "87.ad3ea8cc.chunk.js.map": "/react_node_fs71_Nepalcem/static/js/87.ad3ea8cc.chunk.js.map",
     "127.0be3eed2.chunk.js.map": "/react_node_fs71_Nepalcem/static/js/127.0be3eed2.chunk.js.map",
@@ -94,6 +94,6 @@
   },
   "entrypoints": [
     "static/css/main.a2775d8e.css",
-    "static/js/main.74fd97ae.js"
+    "static/js/main.12c40bf9.js"
   ]
 }
