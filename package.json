@@ -2,7 +2,7 @@
   "name": "goostrack_front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs71_Nepalcem/",
+  "homepage": "https://goitstudentsworks.github.io/react_node_fs71_Nepalcem/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
